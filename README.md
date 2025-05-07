@@ -89,7 +89,7 @@ python bdbomber.py
 
 ```bash
 USERNAME = mainul
-PASSWORD = mainul00
+PASSWORD = mainul000
 ```
 
 ## Screenshots
